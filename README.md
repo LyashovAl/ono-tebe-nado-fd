@@ -1,1 +1,0 @@
-https://github.com/LyashovAl/ono-tebe-nado-fd
