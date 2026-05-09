@@ -257,10 +257,6 @@
   width: 148px;
   height: 114px;
 }
-.about_auc_paragraphs {
-  display: flex;
-  flex-direction: column;
-}
 .about_auc_title {
   margin-top: 105px;
   margin-bottom: 103px;
