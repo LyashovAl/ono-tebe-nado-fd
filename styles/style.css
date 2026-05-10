@@ -139,6 +139,7 @@
   text-align: center;
   font-family: 'Raleway', sans-serif
 }
+
 .lots {
   margin: 184px 24px 0px 24px;
 }
@@ -179,15 +180,14 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  
 }
-.lots_cards_items_1 {
+.lots_cards_items_film {
   background-image: url(../images/card-lot-01.jpg);
 }
-.lots_cards_items_2 {
+.lots_cards_items_book {
   background-image: url(../images/card-lot-02.jpg);
 }
-.lots_cards_items_3 {
+.lots_cards_items_picture {
   background-image: url(../images/card-lot-03.jpg);
 }
 .lots_cards_title {
@@ -278,6 +278,7 @@
 .p_top {
   margin-right: 5px;
 }
+
 .footer {
   display: grid;
   grid-template-columns: 2fr 1fr 2fr;
