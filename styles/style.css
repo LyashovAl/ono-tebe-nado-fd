@@ -79,6 +79,7 @@
   z-index: 0;
 }
 .cover_title {
+  position: relative;
   font-weight: 700;
   font-style: normal;
   font-size: 100px;
@@ -86,6 +87,7 @@
   letter-spacing: 30%;
   text-transform: uppercase;
   color:#fff;
+  z-index: 1;
 }
 .cover_title_left {
   display: block;
